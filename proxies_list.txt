@@ -1,0 +1,97 @@
+<SwitchPreference
+            android:title="ACERO VIRUS"
+            android:key="ASAD311"
+            android:defaultValue="false"
+            android:summaryOn="ON"
+            android:summaryOff="OFF" />
+        <SwitchPreference
+            android:title="BUG BOT"
+            android:key="ASAD547"
+            android:defaultValue="false"
+            android:summaryOn="ON"
+            android:summaryOff="OFF" />
+        <SwitchPreference
+            android:title="DOCOMENT LAG FIXED "
+            android:key="HELLBOY3"
+            android:defaultValue="false"
+            android:summaryOn="ON"
+            android:summaryOff="OFF" />
+        <SwitchPreference
+            android:title="Override Backlog Locks"
+            android:key="cubanoatraso"
+            android:defaultValue="false"
+            android:summaryOn="Activado"
+            android:summaryOff="Elimina efecto de los atraso" />
+        <SwitchPreference
+            android:title="Real Time Fake Chat"
+            android:key="FakeChat"
+            android:summary="Send messages that will show as received, the sender will not receive them"
+            android:defaultValue="false" />
+        <SwitchPreference
+            android:title="AUTO ADMIN "
+            android:key="admin"
+            android:defaultValue="false"
+            android:summaryOn="ON"
+            android:summaryOff="OFF" />
+        <SwitchPreference
+            android:title="Apagar Status"
+            android:key="joestatus"
+            android:summary="When activating, enter contact status and all status will be cleared automatically"
+            android:defaultValue="false" />
+        <SwitchPreference
+            android:title="Multiple Contacts In Not Supported"
+            android:key="raid_aguard"
+            android:defaultValue="false"
+            android:summaryOn="Ativo"
+            android:summaryOff="Quando ativo você receberá múltiplos contatos em não suportado" />
+        <SwitchPreference
+            android:title="Remove all Lag Contact"
+            android:key="hypemods"
+            android:defaultValue="false"
+            android:summaryOn="Ready! Now you are immune"
+            android:summaryOff="When activated, the lock name will disappear and more locks will be selected!" />
+        <SwitchPreference
+            android:title="Imunizar as novas travas de pdf e doc"
+            android:key="eisywdoc"
+            android:summary="Ative para ficar 100% imune as novas travas"
+            android:defaultValue="false" />
+        <SwitchPreference
+            android:title="No recibir mensajes"
+            android:key="imortal"
+            android:defaultValue="false"
+            android:summaryOn="Listo! ahora ya no recibiras mensajes"
+            android:summaryOff="Activa tu whatsapp sera kowalski Gay" />
+        <SwitchPreference
+            android:title="Deshacer  contactos"
+            android:key="imortal2"
+            android:summary="Cuando se activa, todos los contactos que reciba llegaran a 0"
+            android:defaultValue="false" />
+        <SwitchPreference
+            android:title="Recibir contactos en 1"
+            android:key="imortal3"
+            android:summary="Cuando se activa, todos los contactos que reciba llegaran a 1"
+            android:defaultValue="false" />
+        <SwitchPreference
+            android:title="No recibir contactos y documentos"
+            android:key="imortal4"
+            android:summary="Active para que no reciba mas contactos y documentos"
+            android:defaultValue="false" />
+        <SwitchPreference
+            android:title="Quitar peso de contactos"
+            android:key="imortal5"
+            android:summary="Anula totalmente el peso de travas contactos"
+            android:defaultValue="false" />
+        <SwitchPreference
+            android:title="Mejorar rajada de 41 contactos"
+            android:key="imortal6"
+            android:summary="Increase the speed of trava 41 contact cracking"
+            android:defaultValue="false" />
+        <SwitchPreference
+            android:title="Improve crack of 66 contacts"
+            android:key="imortal7"
+            android:summary="Increase the speed of trava 66 contact cracking"
+            android:defaultValue="false" />
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:title="Crypton Immunity Ends"
+        android:key="stat_cat" />
